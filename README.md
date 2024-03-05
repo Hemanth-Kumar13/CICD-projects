@@ -1,1 +1,1 @@
-# CICD-projects
+Build and Tested web application WAR file using Maven and Sonarqube tool. Build WAR file into an docker image then pushed an image into Dockerhub and Nexus repo, deployed the web application image in Tomcat server using Jenkins Pipeline project. And also monitored the Jenkins metrics using Prometheus and Grafana launching it with a Docker container.
